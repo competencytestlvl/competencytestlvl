@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @competencytestlvl
-- 👀 I’m interested in Machine Learning & Artificial Intelligence (NLP and Computer Vision), Data Science, Robotic Process Automation and Blockchain Technology
-- 🌱 I’m currently learning Machine Learning algorithms with scikit-learn, mobile app development with Flutter, computer vision on opencv, front-end UI using React and Ethereum smart contract development using Solidity.
-- 💞️ I’m looking to collaborate on developing smart contracts with Solidity, implementing machine learning in sports analytics and automated data extraction from SAP.
+- 👀 I’m interested in IOT, Machine Learning & Artificial Intelligence (NLP and Computer Vision), Data Science, Robotic Process Automation and Blockchain Technology
+- 🌱 I’m currently learning IOT development, Machine Learning algorithms with scikit-learn, mobile app development with Flutter, computer vision on opencv, front-end UI using React, Ethereum smart contract development using Solidity and Docker/Containerization.
+- 💞️ I’m looking to collaborate on developing smart contracts with Solidity, implementing machine learning & analytics and automated data extraction from SAP.
 - 📫 How to reach me: competencytestlvl@gmail.com
 
 <!---
