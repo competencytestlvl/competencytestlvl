@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @competencytestlvl
-- 👀 I’m interested in Full stack development, IOT, Cloud, Artificial Intelligence, Process Automation and Blockchain Technology
-- 🌱 I’m currently learning code interoperability, mobile app development, computer vision, and Docker/Containerization.
-- 💞️ I’m looking to collaborate on developing on projects involving emerging technologies
+- 👋 Hi,
+- 👀
+- 🌱
+- 💞️ I’m looking to collaborate on developing projects involving emerging technologies
 - 📫 How to reach me: competencytestlvl@gmail.com
 
 <!---
